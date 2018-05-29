@@ -101,6 +101,7 @@
 | quasar-documentation++ | [github](https://github.com/slowaways/quasar-documentation-pp) | All-in-one Quasar Documentation | v0.16.0 |
 | Dolphin Note | [website](https://www.donote.info) | A Simple and Elegant markdown note application. | v0.15.14 |
 | Quicknote | [website](https://quick.donote.info) | A Simple and Elegant markdown quicknote DApp. | v0.15.14 |
+| KALRO Maps App | [github](https://github.com/KALRO-Kenya/kalro-maps), [website](http://kalro.herokuapp.com/#/) | Provide information about Kenya Agricultural and Livestock Research Organisation ([KALRO](http://www.kalro.org)) services and centers. | v0.16.3 |
 
 # Community Components and Tools
 
